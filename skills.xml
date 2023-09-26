@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+<Basic_theory>What is testing, bug reports, documentation, types, methods, testing directions, SDLC, STLC</Basic_theory>
+<Client-server_architecture>Theory of client-server architecture</Client-server_architecture>
+<HTTP>HTTP methods, HTTP server response codes, structures of HTTP inputs and responses</HTTP>
+<JSON_XML>JSON, XML structure</JSON_XML>
+<Postman>API testing via Postman, JS, API autotests</Postman>
+<Logs>Removing and reading logs from an external server</Logs>
+<Charles_Fiddler>Sniffing http web traffic and interception of traffic on iOS, Android</Charles_Fiddler>
+<Dev_Tools>Web Dev Tools of Google Chrome, FireFox</Dev_Tools>
+<VPN>How it works, why you need it, how to use it, tool options</VPN>
+<Mobile_testing>Features of mobile testing, special cases</Mobile_testing>
+<iOS_Android>Feature, guidelines</iOS_Android>
+<Xcode>Building iOS applications</Xcode>
+<Android_Studio>Building Android applications</Android_Studio>
+<ADB>Android device management</ADB>
+<Proxy_vpn>Setting up on iOS and Android</Proxy_vpn>
+<Terminal_Linux>copy, create, view, move files on servers without a graphical interface</Terminal_Linux>
+<Basics_bash_scripting>Automation of routine tasks on the server</Basics_bash_scripting>
+<SQL>basic operators: create, delete, delete, insert, select from, where, join</SQL>
+<Postgres>database installation, configuration and use</Postgres>
+<Redis>Non-relational database installation, configuration and use</Redis>
+<Scrum>Theory of Development Methodology</Scrum>
+</xml>
