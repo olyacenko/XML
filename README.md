@@ -1,5 +1,5 @@
 # XML
- 1. Create an remote repository named XML.
+ 1. Create a remote repository named XML.
     - Go to GitHub account ;
     - click on the `new repository` button ;
     - enter Repository name "JSON" ;
@@ -11,7 +11,7 @@
 2. Clone the XML repository to the local computer.
    - Go to the repository page ;
    - click on `Code` => `Local`=> ` SSH` => `Copy link` ;
-   - on PC open terminal  => enter command `mkdir git_hw_1` => `cd git_hw_1` =>  `git@github.com:olyacenko/XML.git`
+   - on PC open terminal  => enter command `mkdir git_hw_1` => `cd git_hw_1` => `git clone git@github.com:olyacenko/XML.git`
 ```
 dmitrijostalskij@MacBook-Pro-2 hw_ksendzov_courses % mkdir git_hw_1
 dmitrijostalskij@MacBook-Pro-2 hw_ksendzov_courses % cd git_hw_1
